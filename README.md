@@ -9,35 +9,35 @@ conquering python one day at a time
 ### Sandbox
 filled with project i took inspiration from
 
-Password generator
+- Password generator
 
 ### day1
-Band Name Generator
+- Band Name Generator
 
 ### day2
-Two digit sum
-BMI Calculator
-life in weeks
-Tip calculator
+- Two digit sum
+- BMI Calculator
+- life in weeks
+- Tip calculator
 
 ### day3
-Odd or Even
-BMI Calculator with comment on your health situation
-Leap year Calculator
-Pizza order menu system
-Love Calculator
-Treasure island
+- Odd or Even
+- BMI Calculator with comment on your health situation
+- Leap year Calculator
+- Pizza order menu system
+- Love Calculator
+- Treasure island
 
 ### day4
-heads or tail coin flip
-Dinner roulette
-Treasure map
-Understanding nested list & matrix
-rock paper scissors
+- heads or tail coin flip
+- Dinner roulette
+- Treasure map
+- Understanding nested list & matrix
+- rock paper scissors
 
 ### day5
-Average of students heights
-highest score in the list
-sum of all even numbers
-fizzbuzz
-password generator
+- Average of students heights
+- highest score in the list
+- sum of all even numbers
+- fizzbuzz
+- password generator
