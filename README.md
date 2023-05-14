@@ -41,3 +41,10 @@ filled with project i took inspiration from
 - sum of all even numbers
 - fizzbuzz
 - password generator
+
+### day6
+- understanding loops
+- [reeborg.ca] practice reeborg tasks
+
+### day7
+- Hangman
