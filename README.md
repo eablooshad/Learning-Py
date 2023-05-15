@@ -10,6 +10,7 @@ conquering python one day at a time
 filled with project i took inspiration from
 
 - Password generator
+- Hangman
 
 ### day1
 - Band Name Generator
