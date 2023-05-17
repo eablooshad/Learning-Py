@@ -49,3 +49,12 @@ filled with project i took inspiration from
 
 ### day7
 - Hangman
+
+### day8
+- calling & understanding functions
+- Area calculator
+- prime number checker
+- ceaser cipher
+
+### day9
+- 
