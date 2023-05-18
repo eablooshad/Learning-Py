@@ -57,4 +57,5 @@ filled with project i took inspiration from
 - ceaser cipher
 
 ### day9
-- 
+- Understanding Dictionary
+- Grading program
