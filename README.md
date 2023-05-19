@@ -59,3 +59,5 @@ filled with project i took inspiration from
 ### day9
 - Understanding Dictionary
 - Grading program
+- Adding a dictionary to the list
+- silent auction bidding program
